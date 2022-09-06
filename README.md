@@ -4,6 +4,9 @@ Submitted by: **NING YANG**
 
 Time spent: **40** hours spent in total
 
+
+This project brought me the experience of working with actual data, from examining data, cleaning data to analyzing important variables and designing ab test experiments to evaluate the performance performance of supermarket layout changes. I also reviewed the basic content of the Research Design course in my graduate studies from it. Also, I visualized and returned the insights generated to my supervisor.
+
 ## Description
 
 - Quantium has had a data partnership with a large supermarket brand for the last few years who provide transactional and customer data. I partipated as an analyst within the Quantium analytics team and am responsible for delivering highly valued data analytics and insights to help the business make strategic decisions. 
